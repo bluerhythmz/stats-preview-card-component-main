@@ -119,6 +119,7 @@ body {
         background-color: hsl(244, 38%, 16%);
         flex-direction: row;
         width: 111rem;
+        max-height: 44.6rem;
         border-radius: 8px;
     }
 
@@ -171,7 +172,7 @@ body {
     }
 
     .card__stats {
-        margin-top: 4rem;
+        margin-top: 5rem;
         padding-right: 4rem;
         display: flex;
         width: 100%;
